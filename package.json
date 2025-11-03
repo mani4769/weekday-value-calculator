@@ -1,0 +1,24 @@
+{
+  "name": "weekday-value-calculator",
+  "version": "1.0.0",
+  "description": "JavaScript function that aggregates values by weekday and fills missing days with mean values",
+  "main": "solution.js",
+  "scripts": {
+  "test": "jest"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mani4769/weekday-value-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mani4769/weekday-value-calculator/issues"
+  },
+  "homepage": "https://github.com/mani4769/weekday-value-calculator#readme",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
